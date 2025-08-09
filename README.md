@@ -11,9 +11,9 @@
       + Role-based access control (Admin and Customer Roles)
       + Integrated Swagger UI for API testing
 # Tech Stack
-    + Backend: ASP.NET Core 8 WEB API
-    + Database: SQL Server (Entity Framework Core)
-    + Authentication & Authorization: JWT
-    + Documentation: Swagger
-    + Language: C#
+      + Backend: ASP.NET Core 8 WEB API
+      + Database: SQL Server (Entity Framework Core)
+      + Authentication & Authorization: JWT
+      + Documentation: Swagger
+      + Language: C#
 
