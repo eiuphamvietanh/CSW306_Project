@@ -16,11 +16,15 @@
       + Authentication & Authorization: JWT
       + Documentation: Swagger
       + Language: C#
-# BikeRentalAPI/
-    │-- Controllers/        # API endpoints
-    │-- Data/               # DbContext 
-    │-- Models/             # Entity classes
-    │-- DTOs/               # Data transfer objects
-    │-- Program.cs          # Entry point & configuration
-    │-- appsettings.json    # Config & connection strings
+# Project Structure 
+    CSW306_Project/
+        │-- Properties/         
+        │-- Controllers/        # API endpoints
+        │-- Data/               # DbContext 
+        │-- Models/             # Entity classes
+        │-- DTOs/               # Data transfer objects
+        │-- Program.cs          # Entry point & configuration
+        │-- appsettings.json    # Config & connection strings
+
+    
 
