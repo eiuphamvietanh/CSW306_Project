@@ -18,10 +18,13 @@
       + Language: C#
 # Project Structure 
     CSW306_Project/
-    │-- Controllers/        # API endpoints
-    │-- Data/               # DbContext 
-    │-- Models/             # Entity classes
-    │-- DTOs/               # Data transfer objects
-    │-- Program.cs          # Entry point & configuration
-    │-- appsettings.json    # Config & connection strings
+        │-- Properties/         
+        │-- Controllers/        # API endpoints
+        │-- Data/               # DbContext 
+        │-- Models/             # Entity classes
+        │-- DTOs/               # Data transfer objects
+        │-- Program.cs          # Entry point & configuration
+        │-- appsettings.json    # Config & connection strings
+
+    
 
