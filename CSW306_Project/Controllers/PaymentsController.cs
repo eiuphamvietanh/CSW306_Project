@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using CSW306_Project.Data;
+
+using CSW306_Project.Models;
 
 namespace CSW306_Project.Controllers
 {
@@ -8,5 +9,8 @@ namespace CSW306_Project.Controllers
     [ApiController]
     public class PaymentsController : ControllerBase
     {
+       
+       
+      
     }
 }

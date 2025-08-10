@@ -3,7 +3,6 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using static System.Collections.Specialized.BitVector32;
-using CSW306_Project.Data;
 
 
 namespace CSW306_Project.Controllers

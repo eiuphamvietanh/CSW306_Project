@@ -1,7 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using CSW306_Project.Models;
 
-namespace CSW306_Project.Data;
+namespace CSW306_Project.Models;
 
 
 public class DbContextProject : DbContext
@@ -14,5 +13,5 @@ public class DbContextProject : DbContext
     public DbSet<Stations> Stations { get; set; }
     public DbSet<Rentals> Rentals { get; set; }
     public DbSet<Payments> Payments { get; set; }
-    public DbSet<Bikes> WeatherForecasts { get; set; }
+    public DbSet<Bikes> Bikes { get; set; }
 }
